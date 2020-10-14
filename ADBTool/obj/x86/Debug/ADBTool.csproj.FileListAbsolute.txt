@@ -1,0 +1,7 @@
+G:\SVN\project\C#\ADBTool\ADBTool\bin\Debug\ADBTool.exe
+G:\SVN\project\C#\ADBTool\ADBTool\bin\Debug\ADBTool.pdb
+G:\SVN\project\C#\ADBTool\ADBTool\obj\x86\Debug\ADBTool.Form1.resources
+G:\SVN\project\C#\ADBTool\ADBTool\obj\x86\Debug\ADBTool.Properties.Resources.resources
+G:\SVN\project\C#\ADBTool\ADBTool\obj\x86\Debug\ADBTool.csproj.GenerateResource.Cache
+G:\SVN\project\C#\ADBTool\ADBTool\obj\x86\Debug\ADBTool.exe
+G:\SVN\project\C#\ADBTool\ADBTool\obj\x86\Debug\ADBTool.pdb
